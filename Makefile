@@ -34,12 +34,12 @@ run-termui-based :		## Run CLI dashboard based on gizak/termui
 
 ### termbash based
 
-build-termbash-based :		## Build CLI dashboard based on mum4k/termdash
-	cd ./termbash-based && \
+build-termdash-based :		## Build CLI dashboard based on mum4k/termdash
+	cd ./termdash-based && \
 	make build
 
-run-termbash-based :		## Run CLI dashboard based on mum4k/termdash
-	cd ./termbash-based && \
+run-termdash-based :		## Run CLI dashboard based on mum4k/termdash
+	cd ./termdash-based && \
 	make run
 
 ## helpers
