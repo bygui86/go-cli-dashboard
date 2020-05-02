@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/bygui86/go-save-memory/http-server/logging"
+	"github.com/bygui86/go-cli-dashboard/example-app/logging"
 )
 
 func (s *Server) getUser(writer http.ResponseWriter, request *http.Request) {

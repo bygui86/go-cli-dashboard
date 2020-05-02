@@ -4,8 +4,8 @@ import (
 	"log"
 	"time"
 
-	ctrl "github.com/bygui86/go-save-memory/cli-dashboard/controller"
-	ld "github.com/bygui86/go-save-memory/cli-dashboard/loader"
+	ctrl "github.com/bygui86/go-cli-dashboard/termui-based/controller"
+	ld "github.com/bygui86/go-cli-dashboard/termui-based/loader"
 
 	ui "github.com/gizak/termui/v3"
 )

@@ -8,7 +8,7 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 
-	"github.com/bygui86/go-save-memory/http-server/logging"
+	"github.com/bygui86/go-cli-dashboard/example-app/logging"
 
 	"github.com/gorilla/mux"
 )

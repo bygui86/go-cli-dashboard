@@ -1,4 +1,4 @@
-module github.com/bygui86/go-save-memory/cli-dashboard
+module github.com/bygui86/go-cli-dashboard/termui-based
 
 go 1.14
 

@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"github.com/bygui86/go-save-memory/cli-dashboard/application"
+	"github.com/bygui86/go-cli-dashboard/termui-based/application"
 )
 
 var debugUrl = flag.String("url", "", "url for debug/vars, e.g. http://foo.com/debug/vars")

@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/bygui86/go-save-memory/http-server/logging"
+	"github.com/bygui86/go-cli-dashboard/example-app/logging"
 
 	"github.com/gorilla/mux"
 )

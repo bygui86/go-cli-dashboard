@@ -1,4 +1,4 @@
-module github.com/bygui86/go-save-memory/http-server
+module github.com/bygui86/go-cli-dashboard/example-app
 
 go 1.14
 

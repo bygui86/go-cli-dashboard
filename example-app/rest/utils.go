@@ -3,7 +3,7 @@ package rest
 import (
 	"net/http"
 
-	"github.com/bygui86/go-save-memory/http-server/logging"
+	"github.com/bygui86/go-cli-dashboard/example-app/logging"
 )
 
 const (

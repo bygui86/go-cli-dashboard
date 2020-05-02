@@ -11,10 +11,10 @@ import (
 
 	"github.com/google/gops/agent"
 
-	"github.com/bygui86/go-save-memory/http-server/config"
-	"github.com/bygui86/go-save-memory/http-server/logging"
-	"github.com/bygui86/go-save-memory/http-server/monitoring"
-	"github.com/bygui86/go-save-memory/http-server/rest"
+	"github.com/bygui86/go-cli-dashboard/example-app/config"
+	"github.com/bygui86/go-cli-dashboard/example-app/logging"
+	"github.com/bygui86/go-cli-dashboard/example-app/monitoring"
+	"github.com/bygui86/go-cli-dashboard/example-app/rest"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	"github.com/bygui86/go-save-memory/http-server/utils"
+	"github.com/bygui86/go-cli-dashboard/example-app/utils"
 )
 
 const (
